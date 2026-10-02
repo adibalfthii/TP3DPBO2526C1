@@ -6,7 +6,8 @@ Nama: Muh. Adib Al-Fathi
 NIM: 2500418 
 Kelas: C1
 
-**Janji **
+**Janji**
+
 Saya Muh. Adib Al-Fathi dengan NIM 2500418 mengerjakan Tugas Praktikum 3 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 **1. Desain Arsitektur Sistem (Class Diagram)**
